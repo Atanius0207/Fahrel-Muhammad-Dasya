@@ -1,11 +1,13 @@
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:3B82F6&height=200&section=header&text=Fahrel%20Muhammad%20Dasya&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
+
 <div align="center">
-  
-# 👋 Hi, I'm Fahrel Muhammad Dasya
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=SMK+Student+%7C+Software+Engineering;Web+Developer+%26+Backend+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrel-muhammad-dasya-7711643b1/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahrelmhddasya27@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahreldasya/)
+[![Discord](https://img.shields.io/badge/Discord-AwliorGaming%232735-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/AwliorGaming)
 
 </div>
 
@@ -161,8 +163,10 @@ const fahrel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrel-muhammad-dasya-7711643b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahrelmhddasya27@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahreldasya/)
+[![Discord](https://img.shields.io/badge/Discord-AwliorGaming%232735-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/AwliorGaming)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atanius0207)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1117&height=100&section=footer"/>
 
 </div>
