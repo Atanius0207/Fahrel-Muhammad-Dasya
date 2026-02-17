@@ -83,10 +83,10 @@ interests: [Backend Development, Database Design, QR Systems]
       <h3 align="center">🧠 CRUD Inventaris Barang</h3>
       <div align="center">
         <a href="https://github.com/Atanius0207" target="_blank">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" alt="PHP"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         </a>
-        <p><strong>School Projects</strong> - Collection of school assignments and mini projects</p>
+        <p><strong>Inventory System</strong> - Complete inventory management system with stock tracking and reporting features</p>
       </div>
     </td>
     <td width="50%">
