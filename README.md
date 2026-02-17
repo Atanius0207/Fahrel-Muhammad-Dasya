@@ -43,7 +43,7 @@ interests: [Backend Development, Database Design, QR Systems]
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atanius0207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanius0207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 </div>
 
@@ -60,7 +60,7 @@ interests: [Backend Development, Database Design, QR Systems]
     <td width="50%">
       <h3 align="center">📋 Sistem Absensi QR Code</h3>
       <div align="center">
-        <a href="LINK_REPO_KAMU" target="_blank">
+        <a href="https://github.com/Atanius0207" target="_blank">
           <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         </a>
@@ -70,7 +70,7 @@ interests: [Backend Development, Database Design, QR Systems]
     <td width="50%">
       <h3 align="center">🧾 CRUD Data Siswa</h3>
       <div align="center">
-        <a href="LINK_REPO_KAMU" target="_blank">
+        <a href="https://github.com/Atanius0207" target="_blank">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         </a>
@@ -82,7 +82,7 @@ interests: [Backend Development, Database Design, QR Systems]
     <td width="50%">
       <h3 align="center">🧠 Mini Project Sekolah</h3>
       <div align="center">
-        <a href="LINK_REPO_KAMU" target="_blank">
+        <a href="https://github.com/Atanius0207" target="_blank">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         </a>
         <p><strong>School Projects</strong> - Collection of school assignments and mini projects</p>
@@ -91,7 +91,7 @@ interests: [Backend Development, Database Design, QR Systems]
     <td width="50%">
       <h3 align="center">🎵 Music Player v1</h3>
       <div align="center">
-        <a href="LINK_REPO_KAMU" target="_blank">
+        <a href="https://github.com/Atanius0207" target="_blank">
           <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
         </a>
@@ -106,7 +106,7 @@ interests: [Backend Development, Database Design, QR Systems]
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atanius0207&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 ---
@@ -135,7 +135,7 @@ const fahrel = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atanius0207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -150,7 +150,7 @@ const fahrel = {
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3B82F6&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Atanius0207&color=3B82F6&style=for-the-badge)
 
 ---
 
@@ -160,7 +160,7 @@ const fahrel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrel-muhammad-dasya-7711643b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahrelmhddasya27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atanius0207)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
