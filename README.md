@@ -16,7 +16,7 @@
 name: Fahrel Muhammad Dasya
 education: SMK - Software Engineering (RPL)
 focus: Web Development & Backend
-current_learning: Laravel & PHP
+current_learning: Laravel, React, Node, PHP & JS
 location: Indonesia
 interests: [Backend Development, Database Design, QR Systems]
 ```
@@ -31,7 +31,7 @@ interests: [Backend Development, Database Design, QR Systems]
 <img src="https://skillicons.dev/icons?i=php,js,html,css,dart" alt="Languages" />
 
 ### 🎯 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,nodejs,react" alt="Frameworks" />
 
 ### 🗄️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" alt="Tools" />
