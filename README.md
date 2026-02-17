@@ -34,7 +34,7 @@ interests: [Backend Development, Database Design, QR Systems]
 <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" alt="Frameworks" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" alt="Tools" />
 
 </div>
 
@@ -135,7 +135,7 @@ const fahrel = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahrel%20M%20Dasya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atanius0207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
 
 ---
